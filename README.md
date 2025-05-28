@@ -1,3 +1,7 @@
+![desktop-design-dark-active](https://github.com/user-attachments/assets/4f0cf116-a039-423a-9b0e-c9a0d56e9b2d)
+![desktop-design-dark-hover](https://github.com/user-attachments/assets/ac5dac34-52c2-4c62-9e04-8b7aeba56502)
+![desktop-design-dark](https://github.com/user-attachments/assets/700be4a6-fa6e-4dc9-a55b-2ce18d7b1577)
+![preview](https://github.com/user-attachments/assets/3be67e56-3101-4a29-8533-5b00ca36d890)
 <header>
 
 <!--
